@@ -1,7 +1,5 @@
-@'
-pandas
-numpy
-scikit-learn
-xgboost
-streamlit
-'@ | Out-File -FilePath requirements.txt -Encoding utf8
+"pandas" | Out-File -FilePath requirements.txt -Encoding utf8
+"numpy" | Add-Content -Path requirements.txt -Encoding utf8
+"scikit-learn" | Add-Content -Path requirements.txt -Encoding utf8
+"xgboost" | Add-Content -Path requirements.txt -Encoding utf8
+"streamlit" | Add-Content -Path requirements.txt -Encoding utf8
