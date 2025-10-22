@@ -72,7 +72,7 @@ house-price-prediction/
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://github.com/PrakashPalsaniya/house-price-prediction.git
    cd house-price-prediction
    ```
 
